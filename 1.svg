@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100%" height="100%" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve" preserveAspectRatio="none">
 <style type="text/css">
 	.st0{clip-path:url(#SVGID_00000031926529387931398290000017021661528717021058_);}
 	.st1{opacity:0.4;fill:#191433;enable-background:new    ;}
@@ -30,14 +30,14 @@
 		<g>
 			<g>
 				<defs>
-					<rect id="SVGID_1_" width="1920" height="1080"/>
+					<rect id="SVGID_1_" width="100%" height="100%"/>
 				</defs>
 				<clipPath id="SVGID_00000147899057604405392620000000259246407252164283_">
 					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 				</clipPath>
 				<g style="clip-path:url(#SVGID_00000147899057604405392620000000259246407252164283_);">
 
-						<image style="overflow:visible;enable-background:new    ;" width="2152" height="1244" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACGgAAATcCAYAAADSyyGUAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+						<image style="overflow:visible;enable-background:new    ;" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACGgAAATcCAYAAADSyyGUAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAABzyJJREFUeNrsvU2TK8d1rrtWVgHo
 bu4vkluUKDkUbctWyHEHjnA4zrkzywMN78RTD8g/wIn+AI//gCf6A/TgTD3xkANPz73yVcQJh8OK
 ODJFn2tJNL21tT97N4CqXDczqwoooNG7gW58Fp6HxG58FApVq7LezES9WEsEAAAAAAAAAAAAAAAA
@@ -2125,7 +2125,7 @@ QmCC" transform="matrix(0.9992 0 0 0.9992 -94.2404 -72.673)">
 			</g>
 		</g>
 	</g>
-	<rect class="st1" width="1920" height="1080"/>
+	<rect class="st1" width="100%" height="100%"/>
 </g>
 <g>
 	<g>
