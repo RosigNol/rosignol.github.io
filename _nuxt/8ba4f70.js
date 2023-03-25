@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{341:function(n,e,t){"use strict";t.r(e);var l={name:"IndexPage"},r=t(81),component=Object(r.a)(l,(function(){return(0,this._self._c)("training-beginner")}),[],!1,null,null,null);e.default=component.exports;installComponents(component,{TrainingBeginner:t(340).default})}}]);
